@@ -5,7 +5,7 @@ const { createUserProfiles } = require('./userInfo');
 
 // Sample data
 const numbers = [1, 2, 3, 4, 5];
-const strings = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
+const strings = ['apple', 'banana', 'cherry', 'brownberries', 'grapes'];
 
 // Task 1: Process array of numbers
 const processedNumbers = processArray(numbers);
