@@ -1,6 +1,6 @@
 # Mobile Application Development Assignment 1
 
-Student ID: 11037680
+
 
 ## Tasks Overview
 
